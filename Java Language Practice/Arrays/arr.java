@@ -20,6 +20,8 @@ public class arr{
 
         marks[2]=100; //changing marks in maths
         System.out.println("Marks in Maths after changing: "+marks[2]);
-    
+        /*
+        length of array=marks.length
+        */
     }
 }
